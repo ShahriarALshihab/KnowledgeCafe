@@ -12,12 +12,12 @@
       "Pepper"
     ],
     "preparing_time": "20 min",
-    "calories": "400 calories",
+    "calories": "400 cal",
     "recipe_image": "https://i.ibb.co.com/X2tZvJB/1-2.jpg"
   },
   {
     "recipe_id": 2,
-    "recipe_name": "VegsPizza",
+    "recipe_name": "VegsPizzzs",
     "short_description": "A delicious chicken dish cooked in a creamy, spiced tomato sauce.",
     "ingredients": [
       "500 g chicken breast",
@@ -27,7 +27,7 @@
       "Spices"
     ],
     "preparing_time": "30 min",
-    "calories": "350 calories",
+    "calories": "350 cal",
     "recipe_image": "https://i.ibb.co.com/C555hzj/2.jpg"
   },
   {
@@ -42,12 +42,12 @@
       "Olive oil"
     ],
     "preparing_time": "15 min",
-    "calories": "250 calories",
+    "calories": "250 cal",
     "recipe_image": "https://i.ibb.co.com/2jkWbsc/3.jpg"
   },
   {
     "recipe_id": 4,
-    "recipe_name": "Strawberry Shake",
+    "recipe_name": "Strawberry Dream Delight",
     "short_description": "Rich and moist chocolate cake topped with creamy chocolate frosting.",
     "ingredients": [
       "200 g flour",
@@ -57,7 +57,7 @@
       "200 ml milk"
     ],
     "preparing_time": "60 min",
-    "calories": "450 calories",
+    "calories": "450 cal",
     "recipe_image": "https://i.ibb.co.com/nbL6CYg/4.jpg"
   },
   {
@@ -71,7 +71,7 @@
       "Caesar dressing"
     ],
     "preparing_time": "10 min",
-    "calories": "180 calories",
+    "calories": "180 cal",
     "recipe_image": "https://i.ibb.co.com/p0XR1bM/5.jpg"
   },
   {
@@ -87,7 +87,7 @@
       "Sour cream"
     ],
     "preparing_time": "25 min",
-    "calories": "500 calories",
+    "calories": "500 cal",
     "recipe_image": "https://i.ibb.co.com/QrTvqKq/6.jpg"
   },
   {
@@ -102,7 +102,7 @@
       "Soy sauce"
     ],
     "preparing_time": "30 min",
-    "calories": "400 calories",
+    "calories": "400 cal",
     "recipe_image": "https://i.ibb.co.com/F8qH5N6/7.jpg"
   },
   {
@@ -117,7 +117,7 @@
       "Balsamic vinegar"
     ],
     "preparing_time": "10 min",
-    "calories": "150 calories",
+    "calories": "150 cal",
     "recipe_image": "https://i.ibb.co.com/wrvpf2k/8.jpg"
   },
   {
@@ -132,7 +132,7 @@
       "Herbs"
     ],
     "preparing_time": "45 min",
-    "calories": "300 calories",
+    "calories": "300 cal",
     "recipe_image": "https://i.ibb.co.com/JtfVHjd/9.jpg"
   },
   {
@@ -147,7 +147,7 @@
       "Baking powder"
     ],
     "preparing_time": "20 min",
-    "calories": "350 calories",
+    "calories": "350 cal",
     "recipe_image": "https://i.ibb.co.com/GCvyzmY/10.jpg"
   }
 ]

@@ -19,7 +19,7 @@ const Recipes = ({addRecipeToQueue}) => {
         {recipes.map((recipe) => (
           <div
             key={recipe.recipe_id}
-            className="border rounded-md pt-5 card overflow-hidden   shadow-xl"
+            className="border rounded-md pt-1 card overflow-hidden   shadow-xl"
           >
             <figure className=" object-cover p-4 h-[15rem] md:h-[20rem] md:w-full">
               <img
